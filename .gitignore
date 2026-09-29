@@ -1,0 +1,3 @@
+# binários ficam nas releases, não no git
+*.zip
+*.exe

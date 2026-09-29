@@ -27,7 +27,7 @@ Compare com a linha do arquivo em `SHA256SUMS.txt`.
 O executável ainda não é assinado digitalmente. Se aparecer "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**.
 
 ## Como jogar
-- **Jogar agora:** entra numa sala da rede local ou num servidor oficial (São Paulo).
+- **Jogar agora:** entra numa sala da rede local ou num servidor oficial (São Paulo). O servidor oficial liga quando alguém entra (cerca de 1 min na primeira vez) e desliga sozinho quando fica vazio.
 - **Entrar com código:** cole o código da sala que um amigo mandou (ex.: `60N09-947SQ`).
 - **Criar sala:** escolha as regras e mande o código para os amigos.
 

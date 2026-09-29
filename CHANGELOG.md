@@ -2,6 +2,11 @@
 
 As notas completas de cada versão estão em [`notes/`](notes/) e na página de cada release.
 
+## 0.11.0 · 2026-09-29
+- Servidores oficiais **sob demanda**: ligam quando alguém entra (~1 min) e desligam sozinhos quando ficam vazios.
+- Correção: a 0.10.0 apontava para um endereço de servidor que não existe mais.
+- Notas: [notes/v0.11.0.md](notes/v0.11.0.md).
+
 ## 0.10.0 · 2026-09-29
 Primeira versão pública, com servidores oficiais em São Paulo.
 - Novidades:

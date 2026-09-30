@@ -8,9 +8,9 @@ Baixe pelo site: **[haunted-ops.vercel.app](https://haunted-ops.vercel.app/#baix
 |---|---|
 | Windows 10 ou 11 (64 bits) | [HauntedOps-Setup.exe](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Setup.exe): instalador que mantém o jogo atualizado |
 | macOS (beta) | [HauntedOps-Setup-macOS.zip](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Setup-macOS.zip) |
-| Android 7 ou mais novo | [HauntedOps-Android.apk](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Android.apk) |
+| Android 7 ou mais novo (64 bits) | [HauntedOps-Android.apk](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Android.apk) |
 
-Os outros arquivos de cada release são usados pelo próprio jogo para se atualizar. Você não precisa baixá-los.
+Só a versão mais recente fica disponível: todos precisam da mesma versão para jogar juntos. Os outros arquivos da release são usados pelo próprio jogo para se atualizar. Você não precisa baixá-los.
 
 O jogo não é de código aberto. Este repositório serve só para distribuir os instaladores. O item "Source code" que o GitHub mostra em toda release contém apenas este README.
 

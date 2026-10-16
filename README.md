@@ -28,6 +28,7 @@ No Android, o jogo está em **teste fechado na Google Play**: [inscreva-se no gr
 
 ## O jogo
 
+<!-- eco:mapas-fotos · GERADO pela central (haunted-ops-devkit/ecossistema); não editar à mão -->
 <table>
   <tr>
     <td width="50%"><img src=".github/corredor.jpg" alt="Laboratório: o corredor do meio"><br><sub><b>Laboratório</b></sub></td>
@@ -38,10 +39,11 @@ No Android, o jogo está em **teste fechado na Google Play**: [inscreva-se no gr
     <td width="50%"><img src=".github/sanatorio.jpg" alt="Sanatório Santa Luzia: o Pavilhão do Raio-X"><br><sub><b>Sanatório Santa Luzia</b> (chega na versão 0.16.16)</sub></td>
   </tr>
 </table>
+<!-- /eco:mapas-fotos -->
 
 - **Modo bomba, 1v1 a 5v5.** As Sombras tentam plantar a Carga de Ruptura em A ou B; os Lanternas defendem.
 - **Pistola contra faca.** Os Lanternas têm pistola e a fumaça reveladora, que denuncia as Sombras andando dentro dela. As Sombras só têm lâmina, mas somem quando ficam paradas.
-- **Quatro mapas:** o Laboratório, fechado, com três rotas e dutos; o Castelo Ravenmoor, de noite, com cripta e passagens secretas; a Mina, em túneis debaixo da terra; e o Sanatório Santa Luzia, na serra (chega na versão 0.16.16).
+- **Quatro mapas:** o Laboratório, fechado, com três rotas e dutos; o Castelo Ravenmoor, de noite, com cripta e passagens secretas; a Mina, em túneis debaixo da terra; e o Sanatório Santa Luzia, na serra (chega na versão 0.16.16). <!-- eco:mapas-lista -->
 - **Salas oficiais em São Paulo**, que ligam sozinhas quando alguém entra. Você também pode criar a sua sala e mandar o código para os amigos.
 - **PC e celular na mesma sala.**
 

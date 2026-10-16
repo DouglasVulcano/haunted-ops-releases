@@ -1,0 +1,2 @@
+# o pre-commit é script de shell: sempre LF (CRLF quebra o sh)
+.githooks/* text eol=lf

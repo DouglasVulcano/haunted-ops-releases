@@ -1,0 +1,6 @@
+#!/bin/sh
+# Barra spec fora do padrão e trecho GERADO diferente da ficha (spec ECO-004 da central).
+# Sem a central (haunted-ops-devkit) ao lado deste repositório, não faz nada.
+ECO="$(git rev-parse --show-toplevel)/../haunted-ops-devkit/ecossistema/eco.py"
+[ -f "$ECO" ] || exit 0
+exec python "$ECO" precommit

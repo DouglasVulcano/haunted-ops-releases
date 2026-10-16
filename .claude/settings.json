@@ -1,0 +1,39 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear|compact",
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 20,
+            "command": "python \"${CLAUDE_PROJECT_DIR}/../haunted-ops-devkit/ecossistema/eco.py\" hook inicio 2>/dev/null || true"
+          }
+        ]
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write|MultiEdit",
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 20,
+            "command": "python \"${CLAUDE_PROJECT_DIR}/../haunted-ops-devkit/ecossistema/eco.py\" hook editou 2>/dev/null || true"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "timeout": 30,
+            "command": "python \"${CLAUDE_PROJECT_DIR}/../haunted-ops-devkit/ecossistema/eco.py\" hook fim 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}

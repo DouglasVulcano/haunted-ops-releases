@@ -98,14 +98,14 @@ A versão para Mac é beta: se algo não funcionar, conte para a gente pelo e-ma
   </tr>
   <tr>
     <td width="50%"><img src=".github/mina.jpg" alt="Mina: o Poço Principal e a torre do elevador"><br><sub><b>Mina (o Poço Nove)</b></sub></td>
-    <td width="50%"><img src=".github/sanatorio.jpg" alt="Sanatório Santa Luzia: o Pavilhão do Raio-X"><br><sub><b>Sanatório Santa Luzia</b> (chega na versão 0.16.16)</sub></td>
+    <td width="50%"><img src=".github/sanatorio.jpg" alt="Sanatório Santa Luzia: o Pavilhão do Raio-X"><br><sub><b>Sanatório Santa Luzia</b></sub></td>
   </tr>
 </table>
 <!-- /eco:mapas-fotos -->
 
 - **Modo bomba, 1v1 a 5v5.** As Sombras tentam plantar a Carga de Ruptura em A ou B; os Lanternas defendem.
 - **Pistola contra faca.** Os Lanternas têm pistola e a fumaça reveladora, que denuncia as Sombras andando dentro dela. As Sombras só têm lâmina, mas somem quando ficam paradas.
-- **Quatro mapas:** o Laboratório, fechado, com três rotas e dutos; o Castelo Ravenmoor, de noite, com cripta e passagens secretas; a Mina, em túneis debaixo da terra; e o Sanatório Santa Luzia, na serra (chega na versão 0.16.16). <!-- eco:mapas-lista -->
+- **Quatro mapas:** o Laboratório, fechado, com três rotas e dutos; o Castelo Ravenmoor, de noite, com cripta e passagens secretas; a Mina, em túneis debaixo da terra; e o Sanatório Santa Luzia, na serra. <!-- eco:mapas-lista -->
 - **Salas oficiais em São Paulo**, que ligam sozinhas quando alguém entra. Você também pode criar a sua sala e mandar o código para os amigos.
 - **PC e celular na mesma sala.**
 

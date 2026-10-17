@@ -7,11 +7,11 @@ releases com os instaladores da versão mais recente. O código do jogo nunca ve
 
 ## Publicar
 - **Push aqui publica a página na hora** para todo mundo: só com o ok dele.
-- As releases são criadas pelo `tools/release.ps1` do jogo (`../game`), que também apaga as anteriores.
+- As releases são criadas pelo `tools/release.ps1` do jogo (`../haunted-ops`), que também apaga as anteriores.
   Não criar nem apagar release à mão.
 
 ## Vizinhos
-- Central: `../haunted-ops-devkit` (ficha do ecossistema e `eco.py`). Jogo: `../game`. Site: `../haunted-ops-site`.
+- Central: `../haunted-ops-devkit` (ficha do ecossistema e `eco.py`). Jogo: `../haunted-ops`. Site: `../haunted-ops-site`.
 
 ## O que vem de fora (não editar à mão)
 - Os blocos `<!-- eco:mapas-fotos -->` (tabela de fotos) e a linha que termina em

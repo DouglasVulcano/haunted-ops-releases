@@ -75,17 +75,14 @@ A versão para Mac é beta: se algo não funcionar, conte para a gente pelo e-ma
 2. Toque em **Instalar**. A Play cuida das atualizações.
 </details>
 
-## Novidades da 0.16.16
+## Novidades da Temporada 1
 
-- **Mapa novo: Sanatório Santa Luzia.** Um hospital de tuberculose fechado na serra, com subsolo, pátio a céu aberto sob a lua e o Pavilhão do Raio-X como local B.
-- **Castelo Ravenmoor refeito do zero.** Planta nova e menos simétrica: Grande Salão (A), Biblioteca (B), Pátio de Armas no meio, uma cripta só das Sombras e duas passagens secretas. Mais leve no celular.
-- **Ranqueada com os quatro mapas:** Laboratório, Castelo, Mina e Sanatório.
-- **Bomba com mais tempo:** depois de plantada, a Carga leva no mínimo 50 segundos para explodir. Ao criar uma sala, escolha 50, 60 ou 70 s.
-- **Salas online:** a lista mostra na hora quando o líder muda o mapa, os times ou os rounds, e se atualiza gastando menos internet e bateria.
-- **Mapas mais caprichados:** placas refeitas no Laboratório e na Mina, peças que dava para atravessar agora seguram o jogador e o lustre caído do Castelo saiu do caminho.
+- **PC e celular nas mesmas salas de novo:** a versão do PC chega à Temporada 1 e entra nas salas de quem joga pela Google Play.
+- **Salas casuais na hora:** a sala abre em segundos, com lobby, troca de time, revanche e fila quando todos os servidores estão ocupados.
+- **Só no celular (Google Play):** conta e nível, tipos de arma que abrem com o nível (Revólver, Canhão de mão, Cutelo, Tantō, Adaga e as armas duplas), Loja com coleções e pacotes e o Passe Cicatrizes.
 
 > [!NOTE]
-> Versão de rede nova: para jogar online é preciso estar na **0.16.16**. As notas completas estão na [página da release](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest).
+> Versão de rede nova: para jogar online, todos precisam estar na versão desta página. As notas completas estão na [página da release](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest).
 
 ## O jogo
 

@@ -29,7 +29,7 @@
   &nbsp;
   <a href="https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Setup-macOS.zip"><img alt="Baixar para macOS (beta)" src="https://img.shields.io/badge/BAIXAR%20PARA%20MACOS-beta-E8ECF1?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0E13"></a>
   &nbsp;
-  <a href="https://groups.google.com/g/hauntedops-testers/about"><img alt="Android pela Google Play" src="https://img.shields.io/badge/ANDROID-Google%20Play%20(teste%20fechado)-5FD4A0?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0B0E13"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.hauntedops.game"><img alt="Android pela Google Play" src="https://img.shields.io/badge/ANDROID-Google%20Play-5FD4A0?style=for-the-badge&logo=googleplay&logoColor=white&labelColor=0B0E13"></a>
 </p>
 
 | Sistema | Arquivo | Tamanho | Observação |
@@ -37,7 +37,7 @@
 | **Windows** 10 ou 11 (64 bits) | [HauntedOps-Setup.exe](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Setup.exe) | ~90 KB | **Recomendado.** Instalador e launcher: baixa o jogo e o mantém atualizado a cada abertura. |
 | **Windows** (portátil) | [HauntedOps-Windows.zip](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Windows.zip) | ~67 MB | O jogo solto, sem instalar. **Não se atualiza sozinho**: a cada versão nova, baixe de novo. |
 | **macOS** 10.15 ou mais novo (beta) | [HauntedOps-Setup-macOS.zip](https://github.com/DouglasVulcano/haunted-ops-releases/releases/latest/download/HauntedOps-Setup-macOS.zip) | ~3 KB | Launcher para Apple Silicon e Intel: baixa o jogo (~86 MB) na primeira abertura e o mantém atualizado. |
-| **Android** 7 ou mais novo | [Google Play (teste fechado)](https://groups.google.com/g/hauntedops-testers/about) | | Controles de toque. A Play instala e atualiza o jogo. |
+| **Android** 7 ou mais novo | [Google Play](https://play.google.com/store/apps/details?id=com.hauntedops.game) | | Grátis. Controles de toque. A Play instala e atualiza o jogo. |
 | **Steam** | Em desenvolvimento | | A página da loja será divulgada em [hauntedops.com.br](https://hauntedops.com.br). |
 | **iPhone e iPad** | Em desenvolvimento | | Depois da Steam e da Google Play. |
 
@@ -69,11 +69,10 @@ A versão para Mac é beta: se algo não funcionar, conte para a gente pelo e-ma
 </details>
 
 <details>
-<summary><b>Android (Google Play, teste fechado)</b></summary>
+<summary><b>Android (Google Play)</b></summary>
 
-1. [Inscreva-se no grupo de testadores](https://groups.google.com/g/hauntedops-testers/about) com a **conta Google do seu celular** e toque em *Pedir para participar*. A aprovação é manual e pode levar algumas horas.
-2. Aprovado o pedido, abra a [página do teste](https://play.google.com/apps/testing/com.hauntedops.game) e toque em **Tornar-se testador**.
-3. Instale o Haunted Ops pela Play Store, como qualquer outro app. A Play cuida das atualizações.
+1. Abra o [Haunted Ops na Google Play](https://play.google.com/store/apps/details?id=com.hauntedops.game) no celular.
+2. Toque em **Instalar**. A Play cuida das atualizações.
 </details>
 
 ## Novidades da 0.16.16
@@ -172,7 +171,7 @@ Todos precisam da mesma versão para jogar juntos. No Windows (instalador) e no 
 <details>
 <summary><b>Tem APK para Android?</b></summary>
 
-Não. No Android, o Haunted Ops é distribuído só pela Google Play (hoje em teste fechado). Desconfie de APKs em outros sites.
+Não. No Android, o Haunted Ops é distribuído só pela Google Play. Desconfie de APKs em outros sites.
 </details>
 
 <details>
